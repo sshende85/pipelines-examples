@@ -1,4 +1,4 @@
-# Tekton Pipelines Examples on OpenShift
+# Tekton Pipelines Examples on OpenShift 4.2
 
 * [pipeline-buildpacks](pipeline-buildpacks): build and deploy pipeline for a [Cloud Foundry sample Node.js app](https://github.com/cloudfoundry-samples/cf-sample-app-nodejs) using Cloud-Native Buildpacks for building images
 
